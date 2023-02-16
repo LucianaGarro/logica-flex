@@ -1,0 +1,18 @@
+div{
+    background-color: rgb(212,58,192);
+    padding: 30px;
+    margin: 15px;
+}
+
+.flexContainer{
+    height: 500px;
+    background-color: rgb(232,208,208) ;
+    padding:40px;
+    margin: 15px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ 
+   
+}
